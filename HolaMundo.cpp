@@ -5,6 +5,8 @@ int main()
 {
   int edad;
   edad = 50;
+  float vision;
+  vision = 0.9f;
   
   std::cout << "Hola Mundo\n";
   
