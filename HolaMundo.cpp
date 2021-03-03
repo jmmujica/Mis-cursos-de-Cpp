@@ -5,6 +5,8 @@ int main()
 {
   int edad;
   edad = 50;
+  const char* cadena = " vivo en Madrid";
+  
   
   std::cout << "Hola Mundo\n";
   
