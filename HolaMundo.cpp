@@ -3,6 +3,9 @@
 // Madrid (Spain)
 int main()
 {
+  int edad;
+  edad = 50;
+  
   std::cout << "Hola Mundo\n";
   
   std::cin.get();
