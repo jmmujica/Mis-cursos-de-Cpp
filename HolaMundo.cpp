@@ -1,7 +1,7 @@
 #include <iostream>
 // 03 de marzo de 2021
 // Madrid (Spain)
-// issue #3
+// issue #3 (fixes)
 int main()
 {
   int edad;
